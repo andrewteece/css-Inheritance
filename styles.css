@@ -1,0 +1,14 @@
+:root {
+
+--clr-primary: #414141;
+--clr-accent: #7d7d7d;
+--clr-neutral: #ca5e10;
+
+--ff-primary: 'Cinzel', serif;
+--ff-secondary: 'PT Serif', serif;
+
+--fs-900: 6rem;
+--fs-600: 2.25rem;
+--fs-500: 1.3125rem;
+--fs-400: 1.125rem;
+}
